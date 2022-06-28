@@ -3,6 +3,7 @@ Versionering testing
 Red
 Purple
 Blue
+Teal
 Green
 Yellow
 Orange
