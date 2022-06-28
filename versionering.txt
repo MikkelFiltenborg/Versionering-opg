@@ -1,11 +1,16 @@
-Versionering testing
+Versionering testing og experimenter
 
 Red
+Pink
 Purple
+Indigo
 Blue
 Teal
 Green
+Lime
 Yellow
+Honey
 Orange
+Amber
 
-These are colours fading between eachother.
+These are colours changing gradually.
