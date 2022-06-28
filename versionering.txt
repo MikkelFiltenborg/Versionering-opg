@@ -14,5 +14,7 @@ Honey
 Orange
 Amber
 
+Colour mixing bucket (Clean after use).
+
 These are colours changing gradually.
 Farve match test.
