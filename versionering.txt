@@ -1,0 +1,10 @@
+Versionering testing
+
+Red
+Purple
+Blue
+Green
+Yellow
+Orange
+
+These are colours fading between eachother.
