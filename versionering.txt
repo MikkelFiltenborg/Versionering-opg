@@ -2,6 +2,7 @@ Versionering testing og experimenter
 
 Red
 Pink
+Violet
 Purple
 Indigo
 Blue
